@@ -1,3 +1,4 @@
 # python-bootcamp
 
-This repository is to contain code for the Python Bootcamp projects being conducted by Lux Tech Academy and DATA SCIENCE AFRICA
+ This repository is for collecting assignment for projects during the ongoing Python Bootcamp organised by Lux Tech Academy.
+ Feel free to look through the code and if there is a mistake feel free to send me a fix. Thanks.
